@@ -1,0 +1,15 @@
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\LastSort.csproj.AssemblyReference.cache
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\LastSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\LastSort.AssemblyInfoInputs.cache
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\LastSort.AssemblyInfo.cs
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\LastSort.csproj.CoreCompileInputs.cache
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\bin\Debug\net6.0\LastSort.exe
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\bin\Debug\net6.0\LastSort.deps.json
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\bin\Debug\net6.0\LastSort.runtimeconfig.json
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\bin\Debug\net6.0\LastSort.dll
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\bin\Debug\net6.0\LastSort.pdb
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\LastSort.dll
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\refint\LastSort.dll
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\LastSort.pdb
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\LastSort.genruntimeconfig.cache
+C:\Users\Aibar Arysbai\source\repos\LastSort\LastSort\obj\Debug\net6.0\ref\LastSort.dll
